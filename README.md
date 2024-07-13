@@ -1,4 +1,4 @@
-# CSS-ADAVANCE-PROJECT
+# CLONE OF DRIBBLE WEBSITE
 
 # AIM:
    To create a clone website with using Advance CSS.
